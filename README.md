@@ -1,7 +1,3 @@
-# streamlit-sql-survey-app
-Streamlit-based survey application that collects questionnaire data and stores it in a SQL database. Focuses on clean data collection, validation, and a simple analytics-ready structure. Built as a portfolio project demonstrating Python, Streamlit, and SQL integration.
-
-
 # 🧾 Personal Data Collector
 
 A simple but production-style Streamlit questionnaire app that collects personal information and stores it in a structured SQL database.
